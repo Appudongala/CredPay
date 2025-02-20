@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "Payments.iqoujagdtx.styles.css",
+      "AssetFile": "Payments.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1126"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"unMCsfNJPScoVdelCGdudOzIk4GkI9QfbFx3NcWDNzk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 00:35:18 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iqoujagdtx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-unMCsfNJPScoVdelCGdudOzIk4GkI9QfbFx3NcWDNzk="
+        },
+        {
+          "Name": "label",
+          "Value": "Payments.styles.css"
+        }
+      ]
+    },
+    {
+      "Route": "Payments.styles.css",
+      "AssetFile": "Payments.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1126"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"unMCsfNJPScoVdelCGdudOzIk4GkI9QfbFx3NcWDNzk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 00:35:18 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-unMCsfNJPScoVdelCGdudOzIk4GkI9QfbFx3NcWDNzk="
+        }
+      ]
+    }
+  ]
+}

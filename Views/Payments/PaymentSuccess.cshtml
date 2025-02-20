@@ -1,0 +1,75 @@
+﻿@using static Payments.BusinessObjects.Class
+@model OrderDetails
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Payment Success</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #f8f9fa;
+            font-family: Arial, sans-serif;
+        }
+
+        .card {
+            border-radius: 10px;
+        }
+
+        .icon {
+            font-size: 70px;
+            color: #28a745;
+        }
+
+        .payment-info {
+            font-size: 18px;
+            color: #333;
+        }
+
+        .success-title {
+            font-size: 32px;
+            font-weight: 700;
+            color: #28a745;
+        }
+
+        .btn-custom {
+            background-color: #28a745;
+            color: white;
+            border-radius: 5px;
+        }
+
+        .btn-custom:hover {
+            background-color: #218838;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container d-flex justify-content-center align-items-center min-vh-100">
+        <div class="card shadow-lg p-4" style="width: 500px;">
+            <div class="text-center">
+                <div class="icon mb-4">
+                    <i class="bi bi-check-circle-fill"></i>
+                </div>
+                <h1 class="success-title">Payment Successful!</h1>
+                <p class="payment-info mt-3">Thank you for your payment. Your transaction has been completed successfully.</p>
+            </div>
+
+            <div class="mt-4">
+                <h5 class="payment-info">Transaction Details:</h5>
+                <ul class="list-unstyled">
+                    <li><strong>Transaction ID:</strong> @Model.TransactionID</li>
+                    <li><strong>Order ID:</strong> @Model.OrderID</li>
+                    <li><strong>Date:</strong>@Model.DateTime </li>
+                </ul>
+            </div>
+
+            <div class="text-center mt-4">
+                <a href="/Payments/Payment" class="btn btn-custom">Go to Dashboard</a>
+            </div>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.min.js"></script>
+</body>
+</html>

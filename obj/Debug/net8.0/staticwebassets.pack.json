@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Desktop\\Others\\Personal\\Payments\\Payments\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Payments.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Payments.iqoujagdtx.bundle.scp.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Payments.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Payments.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Payments.props",
+      "PackagePath": "build\\Payments.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Payments.props",
+      "PackagePath": "buildMultiTargeting\\Payments.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Payments.props",
+      "PackagePath": "buildTransitive\\Payments.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

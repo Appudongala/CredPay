@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "Hash": "Is224YowuQiZeZp+1R/85V6+xOKlmYDoYYeV+qhFoao=",
+  "Source": "Payments",
+  "BasePath": "_content/Payments",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "D:\\Desktop\\Others\\Personal\\Payments\\Payments\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Payments.styles.css",
+      "SourceId": "Payments",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Desktop\\Others\\Personal\\Payments\\Payments\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/Payments",
+      "RelativePath": "Payments#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "iqoujagdtx",
+      "Integrity": "unMCsfNJPScoVdelCGdudOzIk4GkI9QfbFx3NcWDNzk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Desktop\\Others\\Personal\\Payments\\Payments\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Payments.styles.css"
+    },
+    {
+      "Identity": "D:\\Desktop\\Others\\Personal\\Payments\\Payments\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Payments.bundle.scp.css",
+      "SourceId": "Payments",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Desktop\\Others\\Personal\\Payments\\Payments\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/Payments",
+      "RelativePath": "Payments#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "iqoujagdtx",
+      "Integrity": "unMCsfNJPScoVdelCGdudOzIk4GkI9QfbFx3NcWDNzk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Desktop\\Others\\Personal\\Payments\\Payments\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Payments.bundle.scp.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Payments.bundle.scp.css",
+      "AssetFile": "D:\\Desktop\\Others\\Personal\\Payments\\Payments\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Payments.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1126"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"unMCsfNJPScoVdelCGdudOzIk4GkI9QfbFx3NcWDNzk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 00:35:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-unMCsfNJPScoVdelCGdudOzIk4GkI9QfbFx3NcWDNzk="
+        }
+      ]
+    },
+    {
+      "Route": "Payments.iqoujagdtx.bundle.scp.css",
+      "AssetFile": "D:\\Desktop\\Others\\Personal\\Payments\\Payments\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Payments.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1126"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"unMCsfNJPScoVdelCGdudOzIk4GkI9QfbFx3NcWDNzk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 00:35:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iqoujagdtx"
+        },
+        {
+          "Name": "label",
+          "Value": "Payments.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-unMCsfNJPScoVdelCGdudOzIk4GkI9QfbFx3NcWDNzk="
+        }
+      ]
+    },
+    {
+      "Route": "Payments.iqoujagdtx.styles.css",
+      "AssetFile": "D:\\Desktop\\Others\\Personal\\Payments\\Payments\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Payments.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1126"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"unMCsfNJPScoVdelCGdudOzIk4GkI9QfbFx3NcWDNzk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 00:35:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iqoujagdtx"
+        },
+        {
+          "Name": "label",
+          "Value": "Payments.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-unMCsfNJPScoVdelCGdudOzIk4GkI9QfbFx3NcWDNzk="
+        }
+      ]
+    },
+    {
+      "Route": "Payments.styles.css",
+      "AssetFile": "D:\\Desktop\\Others\\Personal\\Payments\\Payments\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Payments.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1126"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"unMCsfNJPScoVdelCGdudOzIk4GkI9QfbFx3NcWDNzk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 00:35:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-unMCsfNJPScoVdelCGdudOzIk4GkI9QfbFx3NcWDNzk="
+        }
+      ]
+    }
+  ]
+}
